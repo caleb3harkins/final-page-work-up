@@ -1,0 +1,63 @@
+body {
+    font-family:Dzruik Futuristic Font, Dzruik Futuristic Font;
+    background-color: black;
+    margin: 0;
+    padding: 0;
+}
+
+
+nav ul {
+    
+  
+  padding: 1;
+    background-color: black;
+    margin: 1;
+    text-align: center;
+}
+
+
+
+
+nav ul li {
+    display: inline;
+    margin-right: 20px;
+}
+
+
+
+
+
+
+nav ul li a {
+    text-decoration: none;
+    color: white;
+    padding: 15px;
+    display: inline-block;
+}
+
+nav ul li a:hover {
+    background-color: white;
+}
+
+
+header
+
+ {
+    background-color: blue;
+    color: white;
+    padding: 20px;
+    text-align: center;
+}
+
+header h1 {
+    margin: 0;
+}
+
+header p {
+    margin: 10px 0;
+}
+
+
+
+
+
